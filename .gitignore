@@ -16,5 +16,5 @@
 .strong-pm
 coverage
 node_modules
-server/storage
+#server/storage
 npm-debug.log
