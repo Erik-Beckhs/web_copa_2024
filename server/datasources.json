@@ -4,11 +4,11 @@
     "connector": "memory"
   },
   "MySQL": {
-    "host": "mysql.railway.internal",
-    "port": 18210,
-    "url": "mysql://root:NDzzKopSwcJjveTvLtGSOcSlFNcXxysP@roundhouse.proxy.rlwy.net:18210/railway",
+    "host": "monorail.proxy.rlwy.net",
+    "port": 14478,
+    "url": "mysql://root:LfcWGvGqPMDOQvmjLwbZEHxRdPDLzAIO@monorail.proxy.rlwy.net:14478/railway",
     "database": "railway",
-    "password": "NDzzKopSwcJjveTvLtGSOcSlFNcXxysP",
+    "password": "LfcWGvGqPMDOQvmjLwbZEHxRdPDLzAIO",
     "name": "MySQL",
     "user": "root",
     "connector": "mysql"
